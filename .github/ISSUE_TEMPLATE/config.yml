@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: MultiLang Discord
+    url: https://rocketcreations.net/discord
+    about: Our support Discord, please ask questions and search support here.
+  - name: MultiLang Wiki
+    url: https://wiki.lorenzo0111.me/rocketcreations/rocketplaceholders/starting
+    about: Take a look at the wiki page for instructions how to setup MultiLang and use its commands.
