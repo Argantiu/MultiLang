@@ -8,10 +8,10 @@ MultiLang is a plugin that allows you to add a multilocalization system to your 
 ---
 
 <img src="https://github.com/Argantiu/MultiLang/raw/master/media/features.png" width="250"></br>
-<a href="https://github.com/Lorenzo0111/MultiLang/blob/master/src/main/resources/config.yml"><img src="https://github.com/Argantiu/MultiLang/raw/master/media/config.png" width="100">
-<a href="https://github.com/Lorenzo0111/MultiLang/blob/master/LICENSE"><img src="https://github.com/Argantiu/MultiLang/raw/master/media/opensource.png" width="100"></br>
-<a href="https://wiki.lorenzo0111.me/rocketcreations/rocketplaceholders/api"><img src="https://github.com/Argantiu/MultiLang/raw/master/media/dev_api.png" width="100">
-<a href=""><img src="https://github.com/Argantiu/MultiLang/raw/master/media/multilang_discord.png" width="100"></br>
+<a href="https://wiki.lorenzo0111.me/rocketcreations/rocketplaceholders/starting"><img src="https://github.com/Argantiu/MultiLang/raw/master/media/config.png" width="150">
+<a href="https://github.com/Lorenzo0111/MultiLang/blob/master/LICENSE"><img src="https://github.com/Argantiu/MultiLang/raw/master/media/opensource.png" width="150"></br>
+<a href="https://wiki.lorenzo0111.me/rocketcreations/rocketplaceholders/api"><img src="https://github.com/Argantiu/MultiLang/raw/master/media/dev_api.png" width="150">
+<a href="https://rocketcreations.net/discord"><img src="https://github.com/Argantiu/MultiLang/raw/master/media/multilang_discord.png" width="150"></br>
 
 ---
 <h3>
