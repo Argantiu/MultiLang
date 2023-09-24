@@ -96,8 +96,8 @@ dependencies {
 shadowJar {
     minimize()
     archiveFileName.set("${project.name}-${project.version}.jar")
-    relocate("io.github.slimjar","${libsBase}.slimjar")
-    relocate("dev.triumphteam","${libsBase}")
+    //relocate("io.github.slimjar","${libsBase}.slimjar")
+    //relocate("dev.triumphteam","${libsBase}")
     relocate("com.cryptomorin.xseries","${libsBase}.xseries")
     relocate("net.kyori.adventure", "${libsBase}.adventure")
     relocate("net.kyori.examination", "${libsBase}.examination")
