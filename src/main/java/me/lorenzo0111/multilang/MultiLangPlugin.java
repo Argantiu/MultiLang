@@ -115,11 +115,11 @@ public final class MultiLangPlugin extends JavaPlugin {
                 new UpdateTask(this),
                 60 * 20L,120 * 20L);
 
-        if (Bukkit.getPluginManager().isPluginEnabled("ProtocolLib")) {
-            this.getLogger().info("Hooked with ProtocolLib. Now updating packets.");
-            protocol = new PacketHandler(ProtocolLibrary.getProtocolManager(),this);
-            protocol.init();
-        }
+        //if (Bukkit.getPluginManager().isPluginEnabled("ProtocolLib")) {
+        //    this.getLogger().info("Hooked with ProtocolLib. Now updating packets.");
+        //    protocol = new PacketHandler(ProtocolLibrary.getProtocolManager(),this);
+        //    protocol.init();
+        //}
 
         loader.commands();
         loader.api();
