@@ -17,6 +17,6 @@ MultiLang is a plugin that allows you to add a multilocalization system to your 
 <h3>
 Special thanks to
 </h3>
-<a href="https://jb.gg/OpenSource"><img src="https://github.com/Lorenzo0111/RocketPlaceholders/blob/master/media/jetbrains.png?raw=true" alt="drawing" width="100"/>
-<a href="https://github.com/Argantiu"><img src="https://avatars.githubusercontent.com/u/104836151?s=400&u=af5b824943440b083fc49b212e3a71f0aa148e32&v=4" alt="Argantiu" width="100"/>
+<a href="https://jb.gg/OpenSource"><img src="https://github.com/Lorenzo0111/RocketPlaceholders/blob/master/media/jetbrains.png?raw=true" alt="drawing" width="50"/>
+<a href="https://github.com/Argantiu"><img src="https://avatars.githubusercontent.com/u/104836151?s=400&u=af5b824943440b083fc49b212e3a71f0aa148e32&v=4" alt="Argantiu" width="50"/>
 </div>
