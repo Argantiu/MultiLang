@@ -63,9 +63,10 @@ repositories {
 }
 
 dependencies {
+    classpath "io.github.slimjar:gradle-plugin:1.3.0"
     implementation('org.bstats:bstats-bukkit:3.0.1')
     implementation("space.rocketplugins.pluginslib:bukkit:2.0.3.2")
-    implementation("io.github.slimjar:gradle-plugin:1.3.0")
+    //implementation("io.github.slimjar:gradle-plugin:1.3.0")
     //implementation("io.github.slimjar:slimjar:1.3.0")
     implementation('dev.triumphteam:triumph-gui:3.1.5')
     compileOnly("org.spigotmc:spigot-api:1.19.4-R0.1-SNAPSHOT")
@@ -81,6 +82,8 @@ dependencies {
     slim("org.xerial:sqlite-jdbc:3.41.0.0")
     slim("org.slf4j:slf4j-simple:2.0.6")
 }
+
+apply plugin: "io.github.slimjar"
 
 //sonarqube {
 //    properties {
